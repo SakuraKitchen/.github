@@ -4,7 +4,7 @@ Hello, and welcome to the Sakura Kitchen Github Organization. We're full of all 
 
 * [Jordan](https://github.com/nodoubtjordan) (Lead of Development)
 * [Zackary](https://github.com/nodoubtzack) (Creative Director)
-* [Morgan](https://github.com/mvvrgan) (Best at pulling bitches)
+* [Morgan](https://github.com/mvvrgan) (Gameplay Engineer)
 * [Light](https://github.com/liteless) (UI/UX Designer)
 
 ## 🤓 We use these languages everyday...
