@@ -19,5 +19,6 @@ Hello, and welcome to the Sakura Kitchen Github Organization. We're full of all 
 ## 💻 What we use to program...
 
 * <img height="18" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true"> [Visual Studio Code](https://code.visualstudio.com/)
+* <img height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Roblox_Studio_logo_2021_present.svg/1200px-Roblox_Studio_logo_2021_present.svg.png"> [Roblox Studio](https://setup.rbxcdn.com/RobloxStudioInstaller.exe)
 
 Please note that our code is **not** for public use. Do not bribe/ask developers for Sakura's internal code. Doing so will result in further punishments such as a blacklist from all of Sakura's facilities. Do not attempt it.
