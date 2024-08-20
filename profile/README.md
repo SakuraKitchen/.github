@@ -7,6 +7,7 @@ Hello, and welcome to the Sakura Kitchen Github Organization. We're full of all 
 * [Arjun](https://github.com/alreadyfans) (Gameplay Engineer)
 * [Jimmy](https://github.com/Jyrezo) (Gameplay Engineer + Web Developer)
 * [Light](https://github.com/liteless) (UI/UX Designer)
+* [Morgan](https://github.com/mvvrgan) (Gameplay Engineer)
 
 ## 🤓 We use these languages & tools everyday...
 
