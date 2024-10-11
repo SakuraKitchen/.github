@@ -2,10 +2,10 @@
 
 Hello, and welcome to the Sakura Kitchen Github Organization. We're full of all kinds of Roblox Developers & Programming nerds.
 
-* [Zackary](https://github.com/nodoubtzack) (Project Lead)
 * [Jay](https://github.com/Nephere) (Creative Director)
-* [Jimmy](https://github.com/Jyrezo) (Gameplay & Web Engineer)
 * [Light](https://github.com/liteless) (UI/UX Designer)
+* [Zackary](https://github.com/nodoubtzack) (Project Lead)
+* [Jimmy](https://github.com/Jyrezo) (Gameplay & Web Engineer)
 
 ## 🤓 We use these languages & tools everyday...
 
