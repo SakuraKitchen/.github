@@ -2,9 +2,11 @@
 Konnichiwa! Welcome to the Sakura Kitchen Github Organization—where we mix code like sushi rolls and serve up fresh ideas with a side of creativity! We’re a team of Roblox developers and programming enthusiasts, each bringing our own unique flavors to the table.
 
 ### Meet the Chefs of Code 🍙🥢:
-* [Light](https://github.com/liteless) (UI/UX Designer) - Makes everything look sleek and smooth, turning ideas into beautiful interfaces. 🎨🖌️
-* [Zackary](https://github.com/nodoubtzack) (Project Lead) - Keeps the team on track, ensuring projects roll out smoothly. 🛠️🚀
-* [Jimmy](https://github.com/Jyrezo) (Gameplay & Web Engineer) - Balances gameplay and web tech like a pro. 🕹️💻
+* [Light](https://github.com/liteless) (UI/UX Designer) - Makes everything look sleek and smooth, turning ideas into beautiful interfaces. 🎨🖌️  
+* [Zackary](https://github.com/nodoubtzack) (Project Lead) - Keeps the team on track, ensuring projects roll out smoothly. 🛠️🚀  
+* [Jimmy](https://github.com/Jyrezo) (Gameplay & Web Engineer) - Balances gameplay and web tech like a pro. 🕹️💻  
+* [Arjun](https://github.com/alreadyfans) (Gameplay Engineer) - Crafts fun and engaging mechanics with precision. 🎮🔧  
+* [Lofedev](https://github.com/lofeofbread) (Gameplay Engineer) - Brings gameplay to life with clever code and creative flair. 🧠🎯
 ___
 
 ### 🤓 Our Daily Specials (Languages & Tools)
