@@ -5,7 +5,8 @@ Konnichiwa! Welcome to the Sakura Kitchen Github Organization—where we mix cod
 * [Light](https://github.com/liteless) (UI/UX Designer) - Makes everything look sleek and smooth, turning ideas into beautiful interfaces. 🎨🖌️  
 * [Zackary](https://github.com/nodoubtzack) (Project Lead) - Keeps the team on track, ensuring projects roll out smoothly. 🛠️🚀  
 * [Jimmy](https://github.com/Jyrezo) (Gameplay & Web Engineer) - Balances gameplay and web tech like a pro. 🕹️💻  
-* [Morgan](https://github.com/mvvrgan) (Gameplay Engineer) - Crafts fun and engaging mechanics with precision. 🎮🔧  
+* [Morgan](https://github.com/mvvrgan) (Gameplay Engineer) - Crafts fun and engaging mechanics with precision. 🎮🔧
+* [Kieran](https://github.com/uhkey) (Gameplay Engineer) - Builds immersive systems that keep players hooked and coming back for more. 🎯🎮
 ___
 
 ### 🤓 Our Daily Specials (Languages & Tools)
