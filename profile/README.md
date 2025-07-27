@@ -1,4 +1,4 @@
-# 🌸 Sakura Development Github 🍣🥢
+# 🌸 Sakura Development GitHub 🍣🥢
 Konnichiwa! Welcome to the Sakura Kitchen Github Organization—where we mix code like sushi rolls and serve up fresh ideas with a side of creativity! We’re a team of Roblox developers and programming enthusiasts, each bringing our own unique flavors to the table.
 
 ### Meet the Chefs of Code 🍙🥢:
